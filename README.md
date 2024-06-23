@@ -12,7 +12,7 @@ A full stack developer. I've been learning frontend and backend. I've been study
 <p align='center'>
    <a href="https://www.linkedin.com/in/tulusmr/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>>
+   </a>
    <a href="mailto:tulusrizqullah@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
