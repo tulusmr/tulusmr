@@ -1,5 +1,5 @@
 # Hi, I'm Tulus 👋
-Full stack developer. I've been learning frontend and backend. I've been studying laravel, mysql, php, javascript, python to see more of what I've created, check out my repository on github. if I work while drinking milk and coffee it means I like milk and coffee, sometimes I mix them. . Nice to meet you! 😊
+Full stack developer. I've been learning frontend and backend. I've been studying laravel, mysql, php, javascript, python to see more of what I've created, check out my repository on github. if I work while drinking milk and coffee it means I like milk and coffee, sometimes I mix them. Nice to meet you! 😊
 
 <p align='center'>
    <a href="https://github.com/tulusmr/github-readme-stats"><img height=150
